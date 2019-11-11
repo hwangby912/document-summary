@@ -12,7 +12,7 @@
 2. **<u>AWS에서 IAM 권한 설정</u>** 
 
    1. 서비스 탭에 들어가서 IAM 검색 후 들어가서 사용자 탭 누르기
-      ![AWS IAM 사용자 tab](C:\Users\HBY\Desktop\쓸만한 것들\국비에서 한 것들\시큐어 코딩 기반 블록체인 개발\AWS 관련 정리자료\AWS IAM 사용자 tab.png)
+      ![AWS IAM 사용자 tab](C:\Users\HBY\Desktop\GitHub\document-summary\AWS 관련 정리자료\AWS IAM 사용자 tab.png)
 
    2. 사용자가 없다면 추가하기(그 후 모두 다음다음을 누르기)
       ![AWS IAM 사용자 만들기 1](C:\Users\HBY\Desktop\GitHub\document-summary\AWS 관련 정리자료\AWS IAM 사용자 만들기 1.png)
